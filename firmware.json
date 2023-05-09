@@ -1,0 +1,8 @@
+[
+  {
+    "fileName" : "LP_EM_CC2340R5/firmware_oad.bin",
+    "version" : "7.10.00.23_2.0.0+0",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  }
+]
