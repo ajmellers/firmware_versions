@@ -2,14 +2,12 @@
   {
     "fileName" : "LP_EM_CC2340R5/firmware_oad.bin",
     "version" : "7.10.00.23_2.0.0+0",
-    "hwType" : "LP_EM_CC2340R5",
-    "imageType" : "mcuboot"
+    "hwType" : "LP_EM_CC2652rb"
   },
   {
     "fileName" : "LP_EM_CC2340R5/simple_peripheral_oad_onchip_LP_CC2652RB_tirtos7_ticlang_oad.bin",
     "version" : "7.10.00.23_2.0.0+0",
-    "hwType" : "LP_EM_CC2340R5",
-    "imageType" : "mcuboot"
+    "hwType" : "LP_EM_CC2652rb"
   }
 ]
 
